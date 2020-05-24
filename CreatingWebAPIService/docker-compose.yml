@@ -1,0 +1,14 @@
+﻿version: "1"
+
+services:
+  api-service-dev:
+    env_file: .env
+    build: .
+    image: 111111111111.dkr.ecr.us-east-1.amazonaws.com/something-portal:${VERSION}
+    ports:
+      - ${PORT}:5000
+    environment:
+      HEALTHCHECK: /healthcheck
+      NODE_ENV: development
+      PORT: "5000"
+      TOKEN: ${TOKEN}

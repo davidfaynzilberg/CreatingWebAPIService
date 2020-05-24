@@ -1,0 +1,101 @@
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll.config
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.pdb
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.csprojResolveAssemblyReference.cache
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.dll
+C:\VS 2015 Projects\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.pdb
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll.config
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\CreatingWebAPIService.pdb
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\Newtonsoft.Json.xml
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\System.Net.Http.Formatting.xml
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.xml
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\System.Web.Http.WebHost.xml
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.csproj.CopyComplete
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.pdb
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.exe.config
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csc.rsp
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csi.exe
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csi.exe.config
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\csi.rsp
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.AppContext.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Collections.Immutable.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Console.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Globalization.Calendars.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.IO.Compression.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.IO.FileSystem.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Net.Http.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Net.Sockets.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Reflection.Metadata.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.ValueTuple.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Xml.XPath.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.exe.config
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\vbc.rsp
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\roslyn\VBCSCompiler.exe.config
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\obj\Debug\CreatingWebAPIService.csprojAssemblyReference.cache
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\log4net.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\log4net.xml
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\MaxMind.Db.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\MaxMind.GeoIP2.dll
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\MaxMind.Db.xml
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\MaxMind.GeoIP2.xml
+E:\Source Code\GitHub\CreatingWebAPIService\CreatingWebAPIService\bin\Data\GeoLite2-Country.mmdb

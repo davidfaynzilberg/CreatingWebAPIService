@@ -1,0 +1,11 @@
+﻿shipments:
+  api-service-dev-portal:
+    env: @@environment
+    barge: corp-dev
+    containers:
+      - api-service-dev-portal
+    replicas: 1
+    group: sead
+    property: my
+    project: test
+    product: api-service-dev

@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "974f3bb7-a951-446a-a73f-1017bd6675e9",
+		"name": "Local",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test API",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"SiteApiKey\": \"1234-5678-9010-3232\",\r\n\t\"Ip\": \"24.125.27.4\",\r\n    \"WhiteList\": \r\n        [\r\n        \t{\"CountryName\": \"China\"},\r\n        \t{\"CountryName\": \"United States\"},\r\n        \t{\"CountryName\": \"Russia\"},\r\n        \t{\"CountryName\": \"ggggggggggggggggg\"}\r\n        ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:56290/api/Home/CheckCountryEnableability",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "56290",
+					"path": [
+						"api",
+						"Home",
+						"CheckCountryEnableability"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
